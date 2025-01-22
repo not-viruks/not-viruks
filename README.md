@@ -3,13 +3,7 @@ Hi, I'm @not-vituks 👋 🚀 Aspiring Developer Passionate About Technology and
 
 I'm dedicated to creating useful and interesting projects that make people's lives easier. I have a strong passion for creating web-sites.
 
-👨‍💻 What I Do: 🧑‍💻Developing 
-
-I use the following Python libraries:
-
-aiogram PyNaCl Telebot Pyrogram 🖥️ Creating Applications in C#
-
-Developing desktop applications to solve everyday tasks.
+👨‍💻 What I Do: Creating web-sites. 🖥️ Creating Applications in C#
 
 🌐 Web Development
 
