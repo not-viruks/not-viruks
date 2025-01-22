@@ -7,7 +7,8 @@ I'm dedicated to creating useful and interesting projects that make people's liv
 
 Working with technologies:
 
-Languages and Frameworks: HTML, CSS, JavaScript(soon), TypeScript(soon), PHP, React(soon) Server Technologies: Node.js(soon) 
+Languages and Frameworks: HTML, CSS, JavaScript(soon), TypeScript(soon), PHP, React(soon)<br>
+Server Technologies: Node.js(soon) <br>
 Other Languages: Python, Java, C#, 📚 Continuous Learning and Skill Improvement
 
 Striving to learn new technologies and enhance my programming knowledge.
