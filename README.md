@@ -17,4 +17,3 @@ Striving to learn new technologies and enhance my programming knowledge.
 🤝 Get in Touch: If you have interesting projects, collaboration proposals, or just want to chat about development, feel free to contact me!<br>
 Email: contact@andriy.site Telegram: @g_andriy Discord: not-virus I'm always open to new connections and ideas
 
-📂My account is so empty because I just recently started using GitHub.
