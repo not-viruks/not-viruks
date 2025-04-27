@@ -3,7 +3,7 @@ Hi, I'm @not-vituks 👋 🚀 Aspiring Developer Passionate About Technology and
 
 I'm dedicated to creating useful and interesting projects that make people's lives easier. I have a strong passion for creating web-sites.
 
-👨‍💻 What I Do:🌐 Web Development 🖥️ Creating Applications in C#
+👨‍💻 What I Do:🌐 Web Development 
 
 Working with technologies:
 
